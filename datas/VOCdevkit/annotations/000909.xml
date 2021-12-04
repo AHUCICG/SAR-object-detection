@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>000909</filename>
+  <path>/home/ljw/FRCN_ROOT/data/VOCdevkit2007/VOC2007/JPEGImages/000909.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>508</width>
+    <height>354</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>201</xmin>
+      <ymin>116</ymin>
+      <xmax>258</xmax>
+      <ymax>145</ymax>
+    </bndbox>
+  </object>
+</annotation>
